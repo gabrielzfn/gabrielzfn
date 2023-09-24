@@ -3,7 +3,8 @@
 My name is Gabriel, a technology enthusiast.
 
 - 🎓  Computer Science student in PUCRS
-- 👩‍💻  Constantly seeking knowledge focused on Back-End
+- 👩‍💻  Laboratory Assistant in Software Verification Laboratory of LABELO
+- 🚀  Constantly seeking knowledge focused on Back-End
 
 
 <br>
