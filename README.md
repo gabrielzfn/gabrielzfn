@@ -1,10 +1,17 @@
-## 👋 HELLO! WELCOME TO MY GITHUB PROFILE.
+### 👋 HELLO! WELCOME TO MY GITHUB PROFILE.
 
-My name is Gabriel, a Computer Science student at PUCRS and a technology enthusiast.
+My name is Gabriel, a technology enthusiast.
+
+- 🎓  Computer Science student in PUCRS
+- 👩‍💻  Constantly seeking knowledge focused on Back-End
 
 
-- :rocket: Constantly seeking knowledge focused on Back-End, primarily using technologies such as Python, Java, and JavaScript.
+<br>
 
+
+#### 🛠️ TECHNOLOGIES
+
+- JavaScript | Python | Java | HTML | CSS
 
 
 <p align="center">
