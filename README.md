@@ -4,15 +4,17 @@ My name is Gabriel, a technology enthusiast.
 
 - 🎓  Computer Science student in PUCRS
 - 👩‍💻  Laboratory Auxiliary in Software Verification Laboratory of LABELO
-- 🚀  Constantly seeking knowledge focused on Back-End
+- 🚀  Constantly seeking knowledge
 
 
 <br>
 
 
-#### 🛠️ TECHNOLOGIES
+#### 🛠️ TECHNOLOGIES I'M LEARNING
 
-- JavaScript | Python | Java | HTML | CSS
+- JavaScript
+- Java
+- python
 
 
 <p align="center">
