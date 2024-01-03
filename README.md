@@ -1,5 +1,9 @@
 ### 👋 HELLO! WELCOME TO MY GITHUB PROFILE.
 
+
+<br>
+
+
 My name is Gabriel, a technology enthusiast.
 
 - 🎓  Computer Science student in PUCRS
