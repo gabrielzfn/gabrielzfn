@@ -1,11 +1,6 @@
-### 👋 HELLO! WELCOME TO MY GITHUB PROFILE.
+#### PRESENTATION
 
-
-<br>
-
-
-#### 💠 PRESENTATION
-
+Hello! Welcome to my GitHub profile.
 My name is Gabriel, a technology enthusiast.
 
 - 🎓  Computer Science student in PUCRS
@@ -16,7 +11,7 @@ My name is Gabriel, a technology enthusiast.
 <br>
 
 
-#### 🛠️ TECHNOLOGIES I'M LEARNING
+#### TECHNOLOGIES I'M LEARNING
 
 - JavaScript
 - Java
