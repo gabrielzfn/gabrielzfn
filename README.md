@@ -7,16 +7,7 @@ My name is Gabriel, a technology enthusiast.
 - 👩‍💻  Laboratory Auxiliary in Software Verification Laboratory of LABELO
 - 🚀  Constantly seeking knowledge
 
-
 <br>
-
-
-#### TECHNOLOGIES I'M LEARNING
-
-- JavaScript
-- Java
-- python
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/gabrielzfn/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
