@@ -2,8 +2,8 @@
 Hello! Welcome to my GitHub profile.
 My name is Gabriel, a technology enthusiast.
 
-- 🎓  Computer Science student in PUCRS
-- 👩‍💻  Laboratory Auxiliary in Software Verification Laboratory of LABELO
+- 🎓  BTech System analysis and development in PUCRS
+- 👩‍💻  Laboratory Assistant in Software Verification Laboratory of LABELO
 - 🚀  Constantly seeking knowledge
 
 <br>
