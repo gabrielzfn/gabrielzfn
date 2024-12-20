@@ -3,7 +3,7 @@ Olá! Bem vindo ao meu perfil do GitHub.
 Me chamo Gabriel, um entusiasta da programação.
 
 - 🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas na PUCRS
-- 👩‍💻  Assistente ed Laboratório no LABELO
+- 👩‍💻  Assistente de Laboratório no LABELO
 - 🚀  Constantemente buscando conhecimento
 
 <br>
