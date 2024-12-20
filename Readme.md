@@ -1,10 +1,10 @@
 
-Hello! Welcome to my GitHub profile.
-My name is Gabriel, a technology enthusiast.
+Olá! Bem vindo ao meu perfil do GitHub.
+Me chamo Gabriel, um entusiasta da programação.
 
-- 🎓  BTech System analysis and development in PUCRS
-- 👩‍💻  Laboratory Assistant in Software Verification Laboratory of LABELO
-- 🚀  Constantly seeking knowledge
+- 🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas na PUCRS
+- 👩‍💻  Assistente ed Laboratórioo no LABELO
+- 🚀  Constantemente buscando conhecimento
 
 <br>
 
