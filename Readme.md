@@ -2,7 +2,7 @@
 Olá! Bem vindo ao meu perfil do GitHub.
 Me chamo Gabriel, um entusiasta da programação.
 
-- 🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas na PUCRS
+- 🎓  Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na PUCRS
 - 👩‍💻  Assistente de Laboratório no LABELO
 - 🚀  Constantemente buscando conhecimento
 
