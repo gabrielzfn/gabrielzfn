@@ -1,6 +1,6 @@
 
 Olá! Bem vindo ao meu perfil do GitHub.
-Me chamo Gabriel, um entusiasta da programação.
+Me chamo Gabriel, e é um prazer ter você aqui.
 
 - 🎓  Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na PUCRS
 - 👩‍💻  Assistente de Laboratório no LABELO
