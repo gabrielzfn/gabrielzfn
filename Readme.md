@@ -1,15 +1,35 @@
-## Apresentação
+<table align="left">
+    <tr>
+        <td><img src="assets/img-badge.png" alt="My badge to GitHub profile" width="320" /></td>
+    </tr>
+    <tr>
+        <td><p align="center">
+            <a href="https://www.linkedin.com/in/gabrielzfn/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+            <a href="mailto:gabriel.zefino@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-000000?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/></a>
+        </p>
+        </td>
+    </tr>
+</table>
 
-Olá! Bem vindo ao meu perfil do GitHub.
-Me chamo Gabriel, e é um prazer ter você aqui.
 
-- 🎓  Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na PUCRS
-- 👩‍💻  Assistente de Laboratório no LABELO
-- 🚀  Constantemente buscando conhecimento
+### 👩‍💻 Hello! Welcome to my GitHub profile.
 
-<br>
+```java
+public class Gabriel {
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/gabrielzfn/"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/gabrielzfn/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-</p>
+    // Basic info
+    private String userName = "Gabriel Zefino Teixeira";
+    private String userStack = "Back-End";
+    private String location = "Porto Alegre, Brazil";
+    private String education = "System Development Student at PUCRS";
+    private String occupation = "Laboratory Assistant at @LABELO-PUCRS";
+
+    // Technologies and tools
+    private String[] os = {"Windows", "Ubuntu 25.10 (at work)"};
+    private String[] languages = {"Java (learning)", "Python (learning)"};
+    private String[] frameworks = {"Spring Boot", "Flask"};
+    private String[] technologies = {"HTML", "CSS", "Markdown"};
+    private String[] ides = {"Visual Studio Code", "IntelliJ IDEA", "PyCharm"};
+    private String[] tools = {"Git", "Figma", "Canva", "ClickUP", "Trello"};
+}
+```
